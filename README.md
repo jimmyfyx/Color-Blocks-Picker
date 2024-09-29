@@ -19,16 +19,16 @@ The goal of this project was to apply key robotics concepts such as computer vis
 ## Features
 - **Blob Detection**: Develope a blob detector using OpenCV to identify colored blocks
 - **Pick-and-Place Operations**: Implement inverse and forward kinematics to perform precise pick-and-place tasks with the UR3 arm
-- **Real-Time Control**: Integrate with ROS for real-time communication and control of the UR3 robotic arm.
+- **Real-Time Control**: Integrate with ROS for real-time communication and control of the UR3 robotic arm
 
 
 ## System Architecture
 ![System Architecture Diagram](tbd.png)
 
 The system consists of the following components:
-1. **Computer Vision Module**: Detects and identifies colored blocks using OpenCV.
-2. **Kinematics Module**: Computes inverse and forward kinematics for the UR3 arm to execute pick-and-place operations.
-3. **Control Module**: Utilizes ROS to control the UR3 arm's movement and gripper.
+1. **Perception Module**: Detects and identifies colored blocks using OpenCV
+2. **Kinematics Module**: Computes inverse and forward kinematics for the UR3 arm to execute pick-and-place operations
+3. **Control Module**: Utilizes ROS to control the UR3 arm's movement and gripper
 
 
 ## Implementation Details
@@ -57,7 +57,7 @@ TBD
     ```
 
 ## Demonstration
-- [Demo video](https://tbd.com)
+- [Demo video](https://demovideo.com)
 
 ## Contributors
 - **Yixiao Fang** - [GitHub](https://github.com/jimmyfyx)
