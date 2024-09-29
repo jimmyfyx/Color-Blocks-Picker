@@ -1,4 +1,4 @@
-# Color-Blocks-Picker
+# Color Blocks Picker with UR3
 
 ## Overview and Objective
 This project involves designing a robotic system using a UR3 arm for identifying and picking colored blocks. The system employs ROS for communication and control, and an vison-based blob detector for color identification. The project was developed as part of the **ECE470 Introduction to Robotics** course at University of Illinois Urbana-Champaign.
